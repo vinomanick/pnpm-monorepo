@@ -1,0 +1,10 @@
+.husky
+.vscode
+.git
+coverage
+dist
+node_modules
+*.config.ts
+.eslintrc.cjs
+package.json
+pnpm-lock.yaml
