@@ -1,10 +1,5 @@
-.husky
-.vscode
-.git
 coverage
+public
 dist
-node_modules
-*.config.ts
-.eslintrc.cjs
-package.json
 pnpm-lock.yaml
+pnpm-workspace.yaml
